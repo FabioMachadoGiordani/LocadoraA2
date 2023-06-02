@@ -3,7 +3,7 @@ import { createRouter, createMemoryHistory, createWebHistory, createWebHashHisto
 import routes from './routes'
 
 /*
- * If not building with SSR mode, you can
+ * If not building with SSR mode, you can.
  * directly export the Router instantiation;
  *
  * The function below can be async too; either use
